@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1">
+  <diagram name="Page-1" id="0SnDANoQbcHQupEw7JFH">
+    <mxGraphModel dx="859" dy="1627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B5lXI7CiW8XoeUJUs1um-1" value="Patio&lt;div&gt;9595mm x 3650mm&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="124" width="383.8" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="B5lXI7CiW8XoeUJUs1um-2" value="House" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="270" width="335.8" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="B5lXI7CiW8XoeUJUs1um-3" value="Path" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="270" width="48" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="B5lXI7CiW8XoeUJUs1um-4" value="Fence" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="605.8" y="10" width="1" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="B5lXI7CiW8XoeUJUs1um-6" value="Fence&lt;div&gt;105mm Gap between fence and patio&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="217" y="-20" width="1" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="B5lXI7CiW8XoeUJUs1um-7" value="Nigels House" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="97" y="240" width="120" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="B5lXI7CiW8XoeUJUs1um-8" value="4880mm x 100mm" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="404.6" y="118" width="195.2" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="B5lXI7CiW8XoeUJUs1um-9" value="100mm x 610mm" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="404.5" y="93.6" width="4" height="24.4" as="geometry" />
+        </mxCell>
+        <mxCell id="B5lXI7CiW8XoeUJUs1um-10" value="4880mm x 100mm" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="408.5" y="93.6" width="195.2" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="B5lXI7CiW8XoeUJUs1um-11" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="599.7" y="97.6" width="4" height="24.4" as="geometry" />
+        </mxCell>
+        <mxCell id="B5lXI7CiW8XoeUJUs1um-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="115" width="3" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="B5lXI7CiW8XoeUJUs1um-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="258" y="115" width="3" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="B5lXI7CiW8XoeUJUs1um-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="115" width="3" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="B5lXI7CiW8XoeUJUs1um-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="115" width="3" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="B5lXI7CiW8XoeUJUs1um-19" value="1600mm gap" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344.5" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
