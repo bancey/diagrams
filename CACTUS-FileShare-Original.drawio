@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.1">
+  <diagram name="Page-1" id="mImV1cSVWHsdKlMgLI3a">
+    <mxGraphModel dx="878" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="320" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-24" value="Client On-Prem DC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="576" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="150" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-21" value="External 3rd Party" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="576" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="32" y="151.5" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-8" value="rg-cactus-&amp;lt;env&amp;gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="33" y="153" width="30.63" height="24.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="150" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-14" value="Connect to share&lt;div&gt;add file via SMB&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQDHMNYoRtZvQshC3R2k-1" target="OQDHMNYoRtZvQshC3R2k-4">
+          <mxGeometry x="0.0026" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-1" value="Cactus Web" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="75" y="180" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-3" value="On-Premises file share" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.network_file_share_service;" vertex="1" parent="1">
+          <mxGeometry x="657.5" y="358.5" width="55" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQDHMNYoRtZvQshC3R2k-4" target="OQDHMNYoRtZvQshC3R2k-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-4" value="Palo Alto Firewalls" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.generic_firewall;" vertex="1" parent="1">
+          <mxGeometry x="305" y="178.5" width="78" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-6" value="rg-hub-&amp;lt;env&amp;gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="266" y="151.5" width="30.63" height="24.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQDHMNYoRtZvQshC3R2k-13" target="OQDHMNYoRtZvQshC3R2k-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-13" value="Virtual WAN" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_WANs.svg;" vertex="1" parent="1">
+          <mxGeometry x="425" y="178.5" width="65" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-17" value="Cloud Gateway /&lt;br&gt;&amp;nbsp;Cloud Broker Service" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.generic_firewall;labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="594" y="178" width="78" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="OQDHMNYoRtZvQshC3R2k-17" target="OQDHMNYoRtZvQshC3R2k-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="390" as="sourcePoint" />
+            <mxPoint x="450" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-27" value="User accesses file via local mount" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OQDHMNYoRtZvQshC3R2k-26" target="OQDHMNYoRtZvQshC3R2k-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OQDHMNYoRtZvQshC3R2k-26" value="Users" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="414" y="360" width="47.5" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
